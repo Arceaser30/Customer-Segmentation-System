@@ -1,0 +1,1 @@
+product_id = request.form.get('product_id')
